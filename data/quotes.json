@@ -1,0 +1,116 @@
+{
+    "Faith": [
+        {
+            "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life,",
+            "reference": "John 3:16"
+        },
+        {
+            "text": "For all have sinned and fall short of the glory of God",
+            "reference": "Romans 3:23"
+        },
+        {
+            "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord",
+            "reference": "Romans 6:23"
+        },
+        {
+            "text": "For by grace you have been saved through faith, and this is not your own doing; it is the gift of God, not a result of works, so that no one may boast",
+            "reference": "Ephesians 2:8-9"
+        },
+        {
+            "text": "I am the way, and the truth, and the life. No one comes to the Father except through me",
+            "reference": "John 3:16"
+        }
+    ],
+
+    "Strength": [
+        {
+            "text": "The LORD is my shepherd, I shall not want",
+            "reference": "Psalm 23:1"
+        },
+        {
+            "text":"I can do all things through Christ who strengthens me",
+            "reference": "Philippians 4:13"
+        },
+        {
+            "text": "Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, I will help you, I will uphold you with my righteous right hand",
+            "reference": "Isaiah 41:10"
+        },
+        {
+            "text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go",
+            "reference": "Joshua 1:9"
+        },
+        {
+            "text": "God is our refuge and strength, a very present help in trouble",
+            "reference": "Psalm 46:1"
+        }
+    ],
+    
+    "Trust": [
+        {
+            "text": "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths",
+            "reference": "Proverbs 3:5-6"
+        },
+        {
+            "text": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him",
+            "reference": "Nahum 1:7"
+        },
+        {
+            "text": "Commit your way to the LORD; trust in him, and he will act",
+            "reference": "Psalm 37:5"
+        },
+        {
+            "text": "Be strong and let your heart take courage, all you who wait for the LORD!",
+            "reference": "Psalm 31:24"
+        },
+        {
+            "text": "Cast your burden on the LORD, and he will sustain you; he will never permit the righteous to be moved",
+            "reference": "Psalm 55:22"
+        }
+    ],
+
+    "Love": [
+        {
+            "text": "Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things",
+            "reference": "1 Corinthians 13:4-7"
+        },
+        {
+            "text": "And now these three remain: faith, hope and love. But the greatest of these is love",
+            "reference": "1 Corinthians 13:13"
+        },
+        {
+            "text": "Above all, keep loving one another earnestly, since love covers a multitude of sins",
+            "reference": "1 Peter 4:8"
+        },
+        {
+            "text": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God",
+            "reference": "1 John 4:7"
+        },
+        {
+            "text": "By this all people will know that you are my disciples, if you have love for one another",
+            "reference": "John 13:35"
+        }
+    ],
+
+    "Peace": [
+        {
+            "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus",
+            "reference": "Philippians 4:7"
+        },
+        {
+            "text": "Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid",
+            "reference": "John 14:27"
+        },
+        {
+            "text": "The LORD gives strength to his people; the LORD blesses his people with peace",
+            "reference": "Psalm 29:11"
+        },
+        {
+            "text": "Blessed are the peacemakers, for they shall be called sons of God",
+            "reference": "Matthew 5:9"
+        },
+        {
+            "text": "You will keep him in perfect peace whose mind is stayed on you, because he trusts in you",
+            "reference": "Isaiah 26:3"
+        }
+    ]
+}

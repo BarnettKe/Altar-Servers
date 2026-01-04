@@ -6,7 +6,7 @@
   <title>Scripture | Altar Servers</title>
   <link rel="stylesheet" href="css/style.css" />
 </head>
-<body>
+<body class="'">
 
   <header>
     <h1>Altar Servers</h1>
@@ -21,12 +21,65 @@
   </header>
 
   <main>
-    <h2>Scripture</h2>
+    <h1>Scripture</h1>
+    <section id="quotes">
+      <h2>Daily Quote</h2>
+
+      <label for="quote-category">Choose a category:</label>
+      <select id="quote-category">
+        <option value="Faith">Faith</option>
+        <option value="Strength">Strength</option>
+        <option value="Trust">Trust</option>
+        <option value="Love">Love</option>
+        <option value="Peace">Peace</option>
+      </select>
+
+      <blockquote id="quote-text"></blockquote>
+      <p id="quote-reference"></p>
+
+      <button id="new-quote">New Quote</button>
+    </section>
+
+    
+    <p>Here is today's mass readings:</p>
+    <section id="firstReading">
+      <h2>First Reading</h2>
+      <p class="reference"></p>
+      <p class="text"></p>  
+    </section>
+
+
+    <div id="psalm">
+      <h2>Psalm</h2>
+      <p class="reference"></p>
+      <ul class="verses"></ul>
+      <h3>Response</h3>
+      <p class="response"></p>
+    </div>
+
+    <section id="secondReading">
+      <h2>Second Reading</h2>
+      <p class ="reference"></p>
+      <p class ="text"></p>
+    </section>
+
+    <section id="alleluia">
+      <h2>Alleluia</h2>
+      <p class="verses"></p>
+      <h3>Response</h3>
+      <p class="response"></p>
+    </section>
+
+
+    <section id="gospel">
+      <h2>Gospel</h2>
+      <p class="reference"></p>
+    </section>
   </main>
 
   <footer>
     <p>© Altar Servers Ministry</p>
   </footer>
-
+  <script src="js/main.js"></script>
 </body>
 </html>

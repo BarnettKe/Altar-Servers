@@ -1,0 +1,32 @@
+{
+  "date": "2026-01-02",
+  "season": "Ordinary Time",
+  "color": "green",
+  "weekday": true,
+
+  "firstReading": {
+    "reference": "1 John 2:22–28",
+    "text": "Who is a liar, but he who denieth that Jesus is the Christ? This is Antichrist, who denieth the Father, and the Son. Whosoever denieth the Son, the same hath not the Father. He that confesseth the Son, hath the Father also. As for you, let that which you have heard from the beginning, abide in you. If that abide in you, which you have heard from the beginning, you also shall abide in the Son, and in the Father. And this is the promise which he hath promised us, life everlasting. These things have I written to you, concerning them that seduce you. And as for you, let the unction, which you have received from him, abide in you. And you have no need that any man teach you; but as his unction teacheth you of all things, and is truth, and is no lie. And as it hath taught you, abide in him. And now, little children, abide in him, that when he shall appear, we may have confidence, and not be confounded by him at his coming."
+  },
+
+  "psalm": {
+    "reference": "Psalm 98",
+    "response": "All the ends of the earth have seen the saving power of God.",
+    "verses": [
+      "Sing to the LORD a new song, for he has done wondrous deeds; His right hand has won victory for him, his holy arm.",
+      " The LORD has made his salvation known: in the sight of the nations he has revealed his justice. He has remembered his kindness and his faithfulness toward the house of Israel.",
+      " All the ends of the earth have seen the salvation by our God. Sing joyfully to the LORD, all you lands; break into song; sing praise."
+    ]
+  },
+
+  "secondReading": null,
+
+  "alleluia": {
+    "response": "Alleluia, alleluia.",
+    "verses":  "In times, past, God spoke to our ancestors through the prophets: in these last days, he has spoken to us through his Son."
+  },
+
+  "gospel": {
+    "reference": "John 1:19–28"
+  }
+}
